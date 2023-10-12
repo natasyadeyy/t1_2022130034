@@ -16,8 +16,16 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## Terinsipasi dari :
-- ![MusicStreamingApp](https://dribbble.com/shots/2287199-HappyFresh)
+
+- ![Music streaming app design](https://dribbble.com/shots/22792813-Music-streaming-app-design?showSimilarShots=true&_=1697084541336)
   
-![image]([https://github.com/natasyadeyy/t1_2022130034/assets/54826174/e1bb3110-06ed-48dc-8f7b-ceeb609d75a6](https://dribbble.com/shots/22792813-Music-streaming-app-design?showSimilarShots=true&_=1697084541336)https://dribbble.com/shots/22792813-Music-streaming-app-design?showSimilarShots=true&_=1697084541336)
+- **Homw Screen**
+  
+  ![image](https://github.com/natasyadeyy/t1_2022130034/assets/54826174/37615c98-7346-4ed8-a476-af1eb07c932c)
+
+- **Play Menu**
+
+![image](https://github.com/natasyadeyy/t1_2022130034/assets/54826174/0dcf714a-e796-4803-a540-ec79759fae52)
+
 
 
