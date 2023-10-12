@@ -16,8 +16,8 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## Terinsipasi dari :
-- ![HappyFresh](https://dribbble.com/shots/2287199-HappyFresh)
+- ![MusicStreamingApp](https://dribbble.com/shots/2287199-HappyFresh)
   
-![image](https://github.com/natasyadeyy/t1_2022130034/assets/54826174/e1bb3110-06ed-48dc-8f7b-ceeb609d75a6)
+![image]([https://github.com/natasyadeyy/t1_2022130034/assets/54826174/e1bb3110-06ed-48dc-8f7b-ceeb609d75a6](https://dribbble.com/shots/22792813-Music-streaming-app-design?showSimilarShots=true&_=1697084541336)https://dribbble.com/shots/22792813-Music-streaming-app-design?showSimilarShots=true&_=1697084541336)
 
 
