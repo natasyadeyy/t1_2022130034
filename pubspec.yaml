@@ -1,5 +1,7 @@
 name: t1_2022130034
-description: A new Flutter project.
+description: Tugas 1
+
+
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -19,7 +21,7 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 version: 1.0.0+1
 
 environment:
-  sdk: '>=3.1.0 <4.0.0'
+  sdk: '>=2.18.2 <3.0.0'
 
 # Dependencies specify other packages that your package needs in order to work.
 # To automatically upgrade your package dependencies to the latest versions
@@ -30,11 +32,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  intl: ^0.18.1
+
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
+  google_fonts: ^6.1.0
 
 dev_dependencies:
   flutter_test:
@@ -57,21 +60,30 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
+
   # To add assets to your application, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
+  assets:
+    - assets/page-1/images/pngtree-music-player-overlay-transparent-background-vector-png-image6612419-removebg-preview-1.png
+    - assets/page-1/images/princess-1.png
+    - assets/page-1/images/can-1.png
+    - assets/page-1/images/yummy-1.png
+    - assets/page-1/images/sayso-1.png
+    - assets/page-1/images/ellipse-1.png
+    - assets/page-1/images/yummy-1-zZn.png
+    - assets/page-1/images/midsummer-1.png
+    - assets/page-1/images/princess-1-Tj6.png
+    - assets/page-1/images/makeyoumine-1.png
+    - assets/page-1/images/ellipse-1-tBJ.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
 
   # For details regarding adding assets from package dependencies, see
   # https://flutter.dev/assets-and-images/#from-packages
-  fonts:
-    - family: Fuggles
-      fonts:
-        - asset: assets/fonts/Fuggles-Regular.ttf
-          weight: 400
+
   # To add custom fonts to your application, add a fonts section here,
   # in this "flutter" section. Each entry in this list should have a
   # "family" key with the font family name, and a "fonts" key with a
